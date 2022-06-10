@@ -1,2 +1,4 @@
-hello this is master
+git hello this is master
 Now Iam in B1
+NOW I'VE MAKE A REMOTE REPO AND I WILL PUSH 
+THIS CHANGES UP 
